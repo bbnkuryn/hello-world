@@ -1,0 +1,10 @@
+Favicon needs to be changed
+Is vendor name to be a mandatory field
+No identifiable trait when submit is greyed out
+.txt files cannot be attached
+Why is there a upload from mobile option in attachment
+attachment not working 
+OS type (OS/file type)
+
+
+
